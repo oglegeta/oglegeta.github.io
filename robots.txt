@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://oglegeta.github.io/sitemap.html.gz
+Sitemap: https://oglegeta.github.io/app/sitemap.html.gz
+Sitemap: https://oglegeta.github.io/assets/sitemap.html.gz
+Sitemap: https://oglegeta.github.io/css/sitemap.html.gz
+Sitemap: https://oglegeta.github.io/includes/sitemap.html.gz
+Sitemap: https://oglegeta.github.io/item/sitemap.html.gz
+Sitemap: https://oglegeta.github.io/src/sitemap.html.gz
